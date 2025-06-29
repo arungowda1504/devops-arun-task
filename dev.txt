@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 making changes in master for dev 
 arungowda:
+=======
+making changes in master for dev file
+dev changes
+>>>>>>> Stashed changes
